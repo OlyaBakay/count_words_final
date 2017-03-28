@@ -1,0 +1,4 @@
+infile="data.txt"
+out_by_a="alphabet.txt"
+out_by_n="numerical.txt"
+threads=5
